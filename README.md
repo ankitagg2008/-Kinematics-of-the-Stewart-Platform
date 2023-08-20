@@ -1,1 +1,1 @@
-# -Kinematics-of-the-Stewart-Platform
+# Kinematics-of-the-Stewart-Platform
